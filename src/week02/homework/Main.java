@@ -1,3 +1,5 @@
+package week02.homework;
+
 import java.util.Scanner;
 
 public class Main {
